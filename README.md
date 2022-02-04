@@ -1,7 +1,7 @@
 # Redux-refactor
 
 # Description
-This book search engine was built to showcase Redux. I replaced an existing context reducer system with a custom redux one.
+This shopping app was built to showcase Redux. I replaced an existing context reducer system with a custom redux one.
 
 ### Key Features
 * Context functionality replaced with Redux!
